@@ -116,7 +116,7 @@ Simple reference for different prices of fish and insects. For personal use.
 | Rajah Brooke’s Birdwing | 2,500 |
 | Red Dragonfly | 180 |
 | Rosalia Batsei Beetle | 3,000 |
-| Scorpion | |
+| Scorpion | 8,000 |
 | Snail | 250 |
 | Spider | 600 |
 | Stinkbug | 120 |
